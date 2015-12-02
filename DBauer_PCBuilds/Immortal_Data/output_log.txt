@@ -1,0 +1,49 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 980 (ID=0x13c0)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+desktop: 1920x1080 60Hz; virtual: 3520x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 29fc -> priority: 1 
+  Thread -> id: 2480 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.505776 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1643.
+Total: 0.866807 ms (FindLiveObjects: 0.096511 ms CreateObjectMapping: 0.154622 ms MarkObjects: 0.592122 ms  DeleteObjects: 0.023039 ms)
+
+Platform assembly: E:\Runner\DBauer_PCBuilds\Immortal_Data\Managed\Boo.Lang.dll (this message is harmless)
+CurrentYaw = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CurrentYaw = 270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CurrentYaw = 180
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+CurrentYaw = 270
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
